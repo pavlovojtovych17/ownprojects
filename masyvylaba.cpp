@@ -11,7 +11,7 @@ int main()
 		scanf_s("%d", &arr[h]);
 	}
 
-
+	//scsc
 	int m = 0, s = 0;
 	for (i = 0; i < 25; ++i) {
 		if (arr[i] == 0) {
